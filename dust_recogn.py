@@ -17,7 +17,7 @@ ax2 = fig.add_subplot(gs[1, 0])
 ax3 = fig.add_subplot(gs[:, 1])
 
 # задаем файл
-filename = "1000"
+filename = "your_file_name" # <- сюда вводить название файла
 img = Image.open("dust_photos/" + filename + ".png")
 
 # получаем текст с картинки
