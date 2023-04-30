@@ -59,4 +59,4 @@
 
 ## Создатели ❤
 
-Алгоритм создали [FoxFil](https://github.com/FoxFil) и [UltraGeoPro](https://github.com/Ultrageopro1966) :)
+Алгоритм создали [FoxFil](https://github.com/FoxFil) и [UltraGeoPro1966](https://github.com/Ultrageopro1966) :)
