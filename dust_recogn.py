@@ -1,6 +1,5 @@
 # импортируем всякое
 import numpy as np
-from matplotlib import pyplot as plt
 from PIL import Image
 import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
@@ -30,10 +29,9 @@ all_len = float(text.split("field: ")[1].split()[0]) * 1000 if izmer == "mm" els
 
 # обрезаем фото и сохраняем в папке dust_cropped
 img = img.crop((0, 0, img.size[0], img.size[1] - img.size[1]/9.5))
-img.save(f"dust_cropped/"+ filename +"_cropped.png")
+img.save("dust_cropped/"+ filename +"_cropped.png")
 img = cv2.imread("dust_cropped/"+ filename +"_cropped.png", cv2.IMREAD_GRAYSCALE)
 img = cv2.GaussianBlur(img, (3, 3), 0)
-img_arr = img / 255
 
 clahe = cv2.createCLAHE(clipLimit=1.0, tileGridSize=(8,8))
 img = clahe.apply(img)
