@@ -55,7 +55,7 @@
 
 ![csv](https://lh6.googleusercontent.com/Wzdg9wpD_NWPxQsJkOdcxzKwCX4-PIo1sPhnlJXbU0ExyUy_Z-JceJn8RgUel1urA2kxiLVIkqAq5XiOUPWC1bkVhHw0WkJa_yxzqcr4t8PMlxmKajmI59tLFc_C1iCVkX5YQoZXvDN5xGqGKUNLgqgc7Q=s2048)
 
-⚠ Сохраняются только пылинки, в которых алгоритм **уверен**.
+⚠ Сохраняются только пылинки, в которых алгоритм **уверен** ⚠
 
 ## Создатели ❤
 
