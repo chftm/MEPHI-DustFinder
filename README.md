@@ -1,3 +1,5 @@
+![Статус проекта: Завершён](https://raw.githubusercontent.com/chftm/brand/main/Project%20Status/finished.svg)
+
 # MEPHI-DustFinder
 ## Об алгоритме 🌐
 
